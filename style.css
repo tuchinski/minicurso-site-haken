@@ -1,0 +1,34 @@
+img {
+	width: 100%;
+	height: 100%;
+}
+
+#h2BgImages {
+	color: blue;
+}
+
+div.jumbotron {
+	margin-bottom: 0;
+}
+
+.container {
+	font-family: 'Baloo', cursive;
+}
+
+.thumbnail, .bg-images, footer {
+  	font-family: 'Montserrat', sans-serif;
+}
+
+
+#h2Bg-images{
+	margin-bottom: 50px;
+	margin-top: 50px;
+}
+
+footer {
+	border-top: dashed;
+	border-width: 1px;
+	padding: 10px;
+	background-color: LightCyan;
+	margin-top: 50px;
+}
