@@ -21,8 +21,11 @@ div.jumbotron {
 
 
 #h2Bg-images{
-	margin-bottom: 50px;
+	/*margin-bottom: 50px;*/
 	margin-top: 50px;
+	margin-bottom: 40px;
+	padding-bottom: 30px;
+	border-bottom: double;
 }
 
 footer {
@@ -31,4 +34,8 @@ footer {
 	padding: 10px;
 	background-color: LightCyan;
 	margin-top: 50px;
+}
+
+.fa-github {
+	color: black;
 }
