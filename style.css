@@ -23,6 +23,8 @@ div.jumbotron {
 	padding-top: 30px;
 	border-bottom: double;
 	border-top: double;
+	font-size: 500%;
+	text-transform: uppercase;
 }
 
 footer {
@@ -42,3 +44,6 @@ img {
 	height: 325px;
 }
 
+.tituloFoto {
+	padding-top: 10px;
+}
